@@ -1,0 +1,5 @@
+compile file java :
+javac smartcafe\*.java
+
+Jalankan program :
+java smartcafe.SmartCafe
